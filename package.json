@@ -2,25 +2,6 @@
   "name": "@vigma-rn/basic-template",
   "main": "expo-router/entry",
   "description": "A basic template for Vigma RN projects",
-  "keywords": [
-    "expo",
-    "react-native",
-    "react",
-    "typescript",
-    "template",
-    "Vigma",
-    "Vigma RN"
-  ],
-  "homepage": "https://docs.vigma.dev",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aliveornot/@vigma-rn/basic-template.git"
-  },
-  "license": "MIT",
-  "author": {
-    "name": "Kang Dongho",
-    "email": "kdh@n3rds.io"
-  },
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
