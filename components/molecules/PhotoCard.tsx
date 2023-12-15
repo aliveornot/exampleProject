@@ -37,19 +37,15 @@ export default PhotoCard;
 
 const styles = StyleSheet.create({
   View: {
-    width: 'auto',
     alignSelf: 'stretch',
     backgroundColor: 'black',
-    height: 512,
+    height: 646,
     flexGrow: 0,
     flexShrink: 0,
     flexBasis: 'auto',
     top: 0,
     left: 0,
-    shadowColor: 'rgba(0, 0, 0, 0)',
-    shadowOffset: { width: 0, height: 0 },
-    shadowOpacity: 1,
-    shadowRadius: 0,
+    width: 'auto',
   },
   View_1: {
     width: 'auto',
